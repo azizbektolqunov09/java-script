@@ -1,0 +1,17 @@
+.red {
+    color: red;
+}
+
+p {
+    color: red;
+}
+
+.text {
+    color: blue;
+}
+
+#title {
+    color: green;
+    font-size: 5rem;     /* kattaligi */
+    height: 50h;         /* text ekranni bir ozi oladi egallaydi */
+}
